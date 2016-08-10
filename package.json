@@ -1,0 +1,38 @@
+{
+  "name": "jquery.scrolltop",
+  "version": "0.0.1",
+  "title": "A simple jQuery scrollup plugin.",
+  "description": "A simple jquery plugin to enable scroll to top.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cobish/jquery.scrolltop.git"
+  },
+  "author": {
+    "name": "cobish",
+    "email": "cobish110@gmail.com",
+    "url": "http://cobish.github.io",
+    "github": "https://github.com/cobish"
+  },
+  "license": {
+    "name": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  },
+  "bugs": {
+    "url": "https://github.com/cobish/jquery.scrolltop/issues"
+  },
+  "homepage": "https://github.com/cobish/jquery.scrolltop",
+  "keywords": [
+      "jQuery",
+      "jquery.nail"
+  ],
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-header": "^1.8.2",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
+}
