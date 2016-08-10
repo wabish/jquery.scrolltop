@@ -4,9 +4,18 @@
 
 ## Installing with NPM
 
+``` bash
+$ npm install jquery.scrolltop --save
+```
+
 ## Installing with Bower
 
+``` bash
+$ bower install jquery.scrolltop --save
+```
+
 ## Demo
+[https://cobish.github.io/jquery.scrolltop/](https://cobish.github.io/jquery.scrolltop/)
 
 ## How to use
 
