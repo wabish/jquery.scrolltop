@@ -1,0 +1,14 @@
+{
+  "name": "jquery.scrolltop",
+  "home": "https://github.com/cobish/jquery.scrolltop",
+  "version": "1.0.0",
+  "description": "A simple jquery plugin to enable scroll to top.",
+  "authors": [
+    "cobish <cobish110@gmail.com>"
+  ],
+  "main": "dist/jquery.scrolltop.min.js",
+  "license": "MIT",
+  "ignore": [
+    "node_modules"
+  ]
+}
