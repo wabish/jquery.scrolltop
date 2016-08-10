@@ -1,6 +1,6 @@
 {
   "name": "jquery.scrolltop",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "title": "A simple jQuery scrollup plugin.",
   "description": "A simple jquery plugin to enable scroll to top.",
   "repository": {
