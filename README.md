@@ -15,14 +15,14 @@ $ bower install jquery.scrolltop --save
 ```
 
 ## Demo
-[https://cobish.github.io/jquery.scrolltop/](https://cobish.github.io/jquery.scrolltop/)
+[https://wabish.github.io/jquery.scrolltop/](https://wabish.github.io/jquery.scrolltop/)
 
 ## How to use
 
 First include the ``jquery.scrolltop.css`` file, you can also create your own style file.
 
 ``` css
-<link rel="stylesheet" href="./css/scrolltop.css" />
+<link rel="stylesheet" href="css/scrolltop.css" />
 ```
 
 Simply include the `jquery.scrolltop.min.js` file and place the following in the head of your document (make sure **jQuery** is included).
